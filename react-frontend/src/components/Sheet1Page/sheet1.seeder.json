@@ -1,0 +1,76 @@
+[
+    {
+        "titleNo": 77511105,
+        "area": 0.216,
+        "planNo": 14178,
+        "location": "SANDAKAN",
+        "uomAreaDesc": "ACRE/S",
+        "ownerName": "LIM VON VON",
+        "address1": "PB 118 JLN UTARA POS BT 1 1/2 90307 SKAN",
+        "telNo": 218163
+    },
+    {
+        "titleNo": 193080214,
+        "area": 1.21,
+        "planNo": 19124839,
+        "location": "KG LUBUK DARAT",
+        "uomAreaDesc": "HECTARE/S",
+        "ownerName": "SITI @ BIDAH BINTI ASLI",
+        "address1": "D/A MARDIAH BINTI ASLI",
+        "address2": "PEJABAT KO NELAYAN",
+        "address3": "89857 SIPITANG",
+        "telNo": 103884061
+    },
+    {
+        "titleNo": 25341806,
+        "area": 0.093,
+        "planNo": 2124243,
+        "location": "KG BUANG SAYANG",
+        "uomAreaDesc": "HECTARE/S",
+        "ownerName": "CHEE SHIAW CHIANG",
+        "address1": "PB 15 89607 PAPAR",
+        "telNo": "088-913308"
+    },
+    {
+        "titleNo": 15596700,
+        "area": 156.1,
+        "planNo": 1127772,
+        "location": "MILE 13, JALAN TUARAN",
+        "uomAreaDesc": "SQ METRE/S",
+        "ownerName": "TPPT SDN BHD",
+        "address1": "BLK A G/F 8 1/F TMN PUTRA ",
+        "address2": "JAYA 88450 TELIPOK KOTA",
+        "address3": "KINABALU"
+    },
+    {
+        "titleNo": 15358264,
+        "area": 4280,
+        "planNo": 23986,
+        "location": "RESERVOIR RD",
+        "uomAreaDesc": "SQ FEET/S",
+        "ownerName": "DORIS CHIU YEN CHING",
+        "address1": "PB 14885",
+        "address2": "88859 KK",
+        "telNo": "088-438555"
+    },
+    {
+        "titleNo": 45320518,
+        "area": 419.4,
+        "planNo": 4123974,
+        "location": "KG LAYA LAYA",
+        "uomAreaDesc": "SQ METRE/S",
+        "ownerName": "NORLILAH BINTI NORBIN",
+        "address1": "PETI SURAT 900, 89208 TUARAN SABAH.",
+        "telNo": 165879768
+    },
+    {
+        "titleNo": 25357162,
+        "area": 89.7,
+        "planNo": 2126998,
+        "location": "KINARUT SOUTH",
+        "uomAreaDesc": "SQ METRE/S",
+        "ownerName": "LEMBAGA PEMBANGUNAN PERUMAHAN DAN BANDAR",
+        "address1": "WISMA PERINDUSTRIAN JL ISTIADAT LIKAS KK",
+        "telNo": 88287790
+    }
+]
